@@ -1,2 +1,4 @@
 # AlphaExoPlayer
-添加vp9解码器，使ExoPlayer可以播放带alpha通道的webm格式视频
+添加vp9解码器，使ExoPlayer可以播放带alpha通道的webm格式视频，exoplayer自带的vp9解码器不支持播放带alpha通道的视频
+
+非常感谢这位大神的仓库：https://github.com/zxzx74147/ExoPlayer
